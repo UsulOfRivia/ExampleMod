@@ -3,7 +3,7 @@ using System;
 using System.Collections;
 using UnityEngine;
 
-namespace ExampleModNS
+namespace FirstModLFK0406NS
 {
     public class ExampleMod : Mod
     {
